@@ -6,7 +6,7 @@ const Home = () => {
   useEffect(() => {
     // 定义数据
     const data = [
-      { year: "1991", value: 0.3 },
+      { year: "1991", value: 0.4 },
       { year: "1992", value: 0.34 },
       { year: "1993", value: 0.6 },
       { year: "1994", value: 0.8 },
